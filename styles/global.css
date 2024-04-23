@@ -1,0 +1,18 @@
+/*hero-container*/
+.hero-container{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/*accordion-container*/
+.accordion-container {
+  margin: -3.5vw 0;
+  padding: 0 2vw 8vw 2vw;
+}
+
+/*footer-container*/
+.footer-container {
+  color: #0032c7;
+  background-color: #fff0db;
+}
